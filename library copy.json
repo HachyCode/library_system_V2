@@ -1,0 +1,86 @@
+[
+  {
+    "Category": "Programming",
+    "Title": "The C# Players Guide",
+    "Author": "RB Whitaker",
+    "Publisher": "Starbound Software",
+    "DateOfPublication": "13/03/2016"
+  },
+  {
+    "Category": "E-Commerce",
+    "Title": "E-Commerce 2017",
+    "Author": "Kenneth Laudon",
+    "Publisher": "Pearson",
+    "DateOfPublication": "22/06/2017"
+  },
+  {
+    "Category": "E-Commerce",
+    "Title": "E-commerce Get It Right!",
+    "Author": "Ian Daniel",
+    "Publisher": "NeuroDigital",
+    "DateOfPublication": "06/08/2011"
+  },
+  {
+    "Category": "Interaction Design",
+    "Title": "The Design of Everyday Things",
+    "Author": "Don Norman",
+    "Publisher": "Hachette Book Group",
+    "DateOfPublication": "05/11/2013"
+  },
+  {
+    "Category": "Programming",
+    "Title": "Programming the Raspberry Pi",
+    "Author": "Simon Monk",
+    "Publisher": "McGraw-Hill Education",
+    "DateOfPublication": "14/11/201"
+  },
+  {
+    "Category": "Systems Analysis",
+    "Title": "Database Systems: A Practical Approach",
+    "Author": "Thomas Connolly",
+    "Publisher": "Pearson",
+    "DateOfPublication": "26/09/2014"
+  },
+  {
+    "Category": "Programming",
+    "Title": "A Student Guide to Object-Oriented Development",
+    "Author": "Carol Britton",
+    "Publisher": "Butterworth-Heinemann",
+    "DateOfPublication": "08/11/2004"
+  },
+  {
+    "Category": "Systems Analysis",
+    "Title": "Systems Engineering and Analysis",
+    "Author": "Benjamin Blanchard",
+    "Publisher": "Pearson",
+    "DateOfPublication": "17/07/2013"
+  },
+  {
+    "Category": "Programming",
+    "Title": "Clean Code",
+    "Author": "Robert Cecil Martin",
+    "Publisher": "Prentice Hall",
+    "DateOfPublication": "11/08/2008"
+  },
+  {
+    "Category": "Programming",
+    "Title": "Adaptive Code: Agile coding with design patterns and SOLID principles",
+    "Author": "Gary McLean Hall",
+    "Publisher": "Microsoft Press",
+    "DateOfPublication": "17/04/2017"
+  },
+  {
+    "Category": "Web Design",
+    "Title": "HTML and CSS: Design and Build Websites",
+    "Author": "Jon Duckett",
+    "Publisher": "John Wiley & Sons",
+    "DateOfPublication": "18/11/2011"
+  },
+  {
+    "Category": "Interaction Design",
+    "Title": "Don't Make Me Think",
+    "Author": "Steve Krug",
+    "Publisher": "New Riders",
+    "DateOfPublication": "05/08/2009"
+  }
+]
