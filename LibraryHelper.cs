@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace library_system
 {
-    public class LibraryHelper
+    class LibraryHelper : ILibraryHelper
     {
-        public List<String> Categories = new List<string> { "Programming", "Systems Analysis", "E - Commerce", "Interaction Design", "Web Design" };
+        public List<String> Categories { get { return new List<string> { "Programming", "Systems Analysis", "E - Commerce", "Interaction Design", "Web Design" }; } }
     }
 }

@@ -11,7 +11,7 @@ namespace library_system
 {
     class App : FileType
     {
-        private LibraryHelper libraryHelper = new LibraryHelper();
+        private ILibraryHelper libraryHelper = Factory.CreatLibraryHelper();
 
         public void Run()
         {

@@ -7,11 +7,11 @@ using System.Xml.Serialization;
 
 namespace library_system
 {
-    class Book : Item, IBookAuthor, IDisplay
+    class Book : Item, IBookAuthor, IDisplay, IBook
     {
         [XmlIgnore]
         static List<string> categories = new List<string>();
-        
+
         public string Author { get; set; }
 
         public Book(string title, string author, string publisher, string dateOfPublication, string category)
